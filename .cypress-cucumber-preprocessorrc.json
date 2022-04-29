@@ -1,0 +1,7 @@
+{
+  "stepDefinitions": [
+    "cypress/integration/**/[filepath].spec.ts",
+    "cypress/integration/common/**/*.ts"
+  ],
+  "filterSpecs": true
+}
